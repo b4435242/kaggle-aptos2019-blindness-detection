@@ -56,4 +56,4 @@ python train.py --arch senet154 --batch_size 16
 ```
 
 ## Train 2nd-level models and ensemble
-https://www.kaggle.com/uiiurz1/aptos-2019-14th-place-solution
+https://www.kaggle.com/victorbj/aptos-2019-11th-place-solution?scriptVersionId=49808524
